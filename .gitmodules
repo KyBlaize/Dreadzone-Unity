@@ -1,0 +1,6 @@
+[submodule "00_Game/Assets/KBFarming"]
+	path = 00_Game/Assets/KBFarming
+	url = https://github.com/KyBlaize/KBFarming-Unity.git
+[submodule "00_Game/Assets/KBSurvival"]
+	path = 00_Game/Assets/KBSurvival
+	url = https://github.com/KyBlaize/KBSurvival-Unity.git
